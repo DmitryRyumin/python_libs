@@ -17,3 +17,9 @@
 | -------- | -------------- | ------------- | -------- |
 | [pandas](https://github.com/DmitryRyumin/python_libs/tree/master/data_analysis/pandas) | ![PyPI](https://img.shields.io/pypi/v/pandas)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas) | ![PyPI - License](https://img.shields.io/pypi/l/pandas) |
 | [NumPy](https://github.com/DmitryRyumin/python_libs/tree/master/data_analysis/NumPy) | ![PyPI](https://img.shields.io/pypi/v/NumPy)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/NumPy) | ![PyPI - License](https://img.shields.io/pypi/l/NumPy) |
+
+## Визуализация данных
+
+| Названия | Текущии версии | Версии Python | Лицензии |
+| -------- | -------------- | ------------- | -------- |
+| [Matplotlib](https://github.com/DmitryRyumin/python_libs/tree/master/data_visualization/Matplotlib) | ![PyPI](https://img.shields.io/pypi/v/Matplotlib)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Matplotlib) | ![PyPI - License](https://img.shields.io/pypi/l/Matplotlib) |
