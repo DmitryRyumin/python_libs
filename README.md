@@ -18,6 +18,8 @@
 | -------- | -------------- | ------------- | -------- |
 | [Matplotlib](https://github.com/DmitryRyumin/python_libs/tree/master/data_visualization/matplotlib) | ![PyPI](https://img.shields.io/pypi/v/matplotlib)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/matplotlib) | ![PyPI - License](https://img.shields.io/pypi/l/matplotlib) |
 | [Seaborn](https://github.com/DmitryRyumin/python_libs/tree/master/data_visualization/seaborn) | ![PyPI](https://img.shields.io/pypi/v/seaborn)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/seaborn) | ![PyPI - License](https://img.shields.io/pypi/l/seaborn) |
+| [Bokeh](https://github.com/DmitryRyumin/python_libs/tree/master/data_visualization/bokeh) | ![PyPI](https://img.shields.io/pypi/v/bokeh)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bokeh) | ![PyPI - License](https://img.shields.io/pypi/l/bokeh) |
+| [Plotly](https://github.com/DmitryRyumin/python_libs/tree/master/data_visualization/plotly) | ![PyPI](https://img.shields.io/pypi/v/plotly)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/plotly) | ![PyPI - License](https://img.shields.io/pypi/l/plotly) |
 
 ## Машинное обучение
 
