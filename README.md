@@ -9,4 +9,4 @@
 
 | Названия | Текущии версии | Версии Python | Лицензии |
 | -------- | -------------- | ------------- | -------- |
-| [scikit-learn](https://github.com/DmitryRyumin/pkgs/tree/master/python_libs/ml/scikit-learn) | ![PyPI](https://img.shields.io/pypi/v/scikit-learn)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scikit-learn) | ![PyPI - License](https://img.shields.io/pypi/l/scikit-learn) |
+| [scikit-learn](https://github.com/DmitryRyumin/python_libs/tree/master/ml/scikit-learn) | ![PyPI](https://img.shields.io/pypi/v/scikit-learn)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scikit-learn) | ![PyPI - License](https://img.shields.io/pypi/l/scikit-learn) |
