@@ -5,21 +5,22 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DmitryRyumin/python_libs)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/python_libs)
 
-## Машинное обучение
-
-| Названия | Текущии версии | Версии Python | Лицензии |
-| -------- | -------------- | ------------- | -------- |
-| [scikit-learn](https://github.com/DmitryRyumin/python_libs/tree/master/ml/scikit-learn) | ![PyPI](https://img.shields.io/pypi/v/scikit-learn)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scikit-learn) | ![PyPI - License](https://img.shields.io/pypi/l/scikit-learn) |
-
 ## Анализ данных
 
 | Названия | Текущии версии | Версии Python | Лицензии |
 | -------- | -------------- | ------------- | -------- |
-| [pandas](https://github.com/DmitryRyumin/python_libs/tree/master/data_analysis/pandas) | ![PyPI](https://img.shields.io/pypi/v/pandas)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas) | ![PyPI - License](https://img.shields.io/pypi/l/pandas) |
-| [NumPy](https://github.com/DmitryRyumin/python_libs/tree/master/data_analysis/NumPy) | ![PyPI](https://img.shields.io/pypi/v/NumPy)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/NumPy) | ![PyPI - License](https://img.shields.io/pypi/l/NumPy) |
+| [Pandas](https://github.com/DmitryRyumin/python_libs/tree/master/data_analysis/pandas) | ![PyPI](https://img.shields.io/pypi/v/pandas)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas) | ![PyPI - License](https://img.shields.io/pypi/l/pandas) |
+| [NumPy](https://github.com/DmitryRyumin/python_libs/tree/master/data_analysis/numpy) | ![PyPI](https://img.shields.io/pypi/v/numpy)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy) | ![PyPI - License](https://img.shields.io/pypi/l/numpy) |
 
 ## Визуализация данных
 
 | Названия | Текущии версии | Версии Python | Лицензии |
 | -------- | -------------- | ------------- | -------- |
-| [Matplotlib](https://github.com/DmitryRyumin/python_libs/tree/master/data_visualization/Matplotlib) | ![PyPI](https://img.shields.io/pypi/v/Matplotlib)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Matplotlib) | ![PyPI - License](https://img.shields.io/pypi/l/Matplotlib) |
+| [Matplotlib](https://github.com/DmitryRyumin/python_libs/tree/master/data_visualization/matplotlib) | ![PyPI](https://img.shields.io/pypi/v/matplotlib)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/matplotlib) | ![PyPI - License](https://img.shields.io/pypi/l/matplotlib) |
+| [Seaborn](https://github.com/DmitryRyumin/python_libs/tree/master/data_visualization/seaborn) | ![PyPI](https://img.shields.io/pypi/v/seaborn)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/seaborn) | ![PyPI - License](https://img.shields.io/pypi/l/seaborn) |
+
+## Машинное обучение
+
+| Названия | Текущии версии | Версии Python | Лицензии |
+| -------- | -------------- | ------------- | -------- |
+| [Scikit-learn](https://github.com/DmitryRyumin/python_libs/tree/master/ml/scikit-learn) | ![PyPI](https://img.shields.io/pypi/v/scikit-learn)  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scikit-learn) | ![PyPI - License](https://img.shields.io/pypi/l/scikit-learn) |
