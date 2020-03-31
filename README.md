@@ -31,4 +31,4 @@
 
 | Названия |
 | -------- |
-| [Анализ данных и предварительная обработка](https://github.com/DmitryRyumin/python_libs/tree/master/samples/exploratory_data_analysis_and_preprocessing.ipunb) |
+| [Анализ данных и предварительная обработка](https://github.com/DmitryRyumin/python_libs/blob/master/samples/exploratory_data_analysis_and_preprocessing.ipynb) |
