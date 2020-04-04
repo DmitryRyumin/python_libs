@@ -1,0 +1,61 @@
+<mxfile host="www.draw.io" modified="2020-04-02T07:50:32.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="UEBvi39YDlAPC-_8gG3R" version="12.9.1" type="github">
+  <diagram id="1iJwGFuA8tHYu0Ec-tb-" name="Page-1">
+    <mxGraphModel dx="1055" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-1" value="&lt;span style=&quot;font-size: 22px&quot;&gt;Количественные критерии оценки тесноты связи&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="720" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-2" value="Величина коэффициента корреляции" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-3" value="Характеристика силы связи" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-4" value="0.1&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 22px&quot;&gt;–&amp;nbsp;&lt;/span&gt;0.3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-5" value="слабая" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-6" value="0.3&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 22px&quot;&gt;–&amp;nbsp;&lt;/span&gt;0.5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-7" value="умеренная" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-8" value="0.5&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 22px&quot;&gt;–&amp;nbsp;&lt;/span&gt;0.7" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-9" value="заметная" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-10" value="0.7&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 22px&quot;&gt;–&amp;nbsp;&lt;/span&gt;0.9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-11" value="высокая" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-12" value="0.9&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 22px&quot;&gt;– 1&lt;/span&gt;.0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="680" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-13" value="весьма&lt;br&gt;высокая" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=22;align=center;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="429.5" y="112.5" width="20" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=22;align=center;rotation=-90;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="670" y="112.5" width="20" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-16" value="Средняя" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="379.63" y="250" width="119.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TeX73M7NRiUhKd3kFFx-17" value="Сильная" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="619.88" y="250" width="120.25" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
